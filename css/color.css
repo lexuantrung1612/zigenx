@@ -1,0 +1,13 @@
+/* ThemeColor */
+.ec-color,.ec-colorhover:hover,.ec-dropdown-menu > li:hover > a,.ec-default-btn,.ec-counter-wrap h6,.ec-city-link ul li:hover a,.ec-consultant-list h6,.ec-blog-grid .ec-blog-text time a:hover,.ec-comment-link:hover,
+.ec-partner-slide .slick-arrow:hover,ul li:hover .ec-recentnews-text h2 a,.ec-testimonial-slider .slick-arrow:hover,.ec-paint-cart-btn:hover {
+	color: #d49663;
+}
+
+.ec-bgcolor,.ec-bgcolorhover:hover,.ec-default-btn:before,.ec-default-btn:after,.ec-default-btn:hover {
+	background-color: #d49663;
+}
+
+.ec-bordercolor,.ec-bordercolorhover:hover,.ec-default-btn,.ec-promotion-tab li.active {
+	border-color: #d49663;
+}

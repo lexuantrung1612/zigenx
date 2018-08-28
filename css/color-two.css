@@ -1,0 +1,17 @@
+/* ThemeColor */
+.ec-color-two,.ec-colorhover-two:hover,.ec-modren-faq .panel-heading a,.ec-masonery-btn i,.ec-masonery-gallery figcaption a i,.ec-article-text ul li a i {
+	color: #db195d;
+}
+
+.ec-bgcolor-two,.ec-bgcolorhover-two:hover,.ec-section-heading h2:before,.ec-circle-btn,.ec-app-btn a:hover,.ec-portfolio-link a,.ec-contact-network li:hover a {
+	background-color: #db195d;
+}
+
+.ec-bordercolor-two,.ec-bordercolorhover-two:hover,.ec-portfolio-link a {
+	border-color: #db195d;
+}
+
+.ec-contact-network li:hover a:after {
+	content: '';
+	border-right-color: #db195d;
+}

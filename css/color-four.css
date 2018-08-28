@@ -1,0 +1,27 @@
+/* ThemeColor */
+.ec-color-four,.ec-colorhover-four:hover,.ec-painting-list .ec-painting-text span,.ec-painting-classic h2,.shop-authore-name a,.ec-paint-price,.ec-paint-price:before,
+.ec-painting-shop ul li,.ec-latestnews-grid .ec-blog-text time i,.ec-shop-text small strong,.ec-breadcrumb li,.ec_social_widget ul li:hover a,.ec-pagination li:hover a,
+.ec-pagination li.active a,.ec-latestnews-list .ec-blog-text time i,.ec-select-checkbox input[type="checkbox"]:checked + label span:before,#eccomments ul li .text a.replay-button,
+.ec-404page ul li:nth-child(2) a,.ec-lesson-text ul li:hover a,.ec-slider-arrows .slick-arrow:hover,.ec-faq .panel-heading a.collapsed:before,.ec-faq .panel-heading a,
+.ec-event-text span,.ec-masonry-caption .ec-plain-btn-style,.ec-portfolio-hover i,.ec-shop-categories li:hover a,.ec-shop-tab .ec-lesson-tabnav li.active a,.ec-icon-list-style li i,
+.ec-carthover-text p,.ec-carthover-text p small,.ec-megalist li:hover a {
+	color: #ff4038;
+}
+
+.ec-bgcolor-four,.ec-bgcolorhover-four:hover,.ec-testimonial-plain:before,.ec-plain-btn,.ec-circle-service ul li:hover i,.ec-paint-cart-btn,.ec-subscribe input[type="submit"],
+.ec-shop-links a:hover,.ec_widget_newslatter input[type="submit"],.ec_flicker_widget ul li a:before,.ec-form form input[type="submit"],.ec-404wrap:before,.ec-plain-btn-style,
+.ec-lesson-tabnav li.active a:before,.ec-pricetitle:before,.ec-event-masonry figure figcaption:before,.ec-event-filter li:hover a,.ec-event-filter li a.active,.ec-portfolio-hover:before,
+.ec-portfolio-masonry figure figcaption:before,.ec-divider-fancy span:before,.ec-color-change.ec-featured-list i,.ec-accordian-element .panel-default .panel-heading a:before,
+.ec-change-color .tabs-nav li:hover a, .ec-change-color .tabs-nav li.active a,.ec-contact-form .tab-content,.shop-reset-btn:hover,.count-bar,
+.ec-section-heading.ec-change-color h2:before {
+	background-color: #ff4038;
+}
+
+.ec-bordercolor-four,.ec-bordercolorhover-four:hover,.ec-painting-list figure a:before,.ec-painting-list figure a:after,.ec-paint-cart-btn,
+.ec-latestnews-grid figure a:before,.ec-latestnews-grid figure a:after,.ec-latestnews-list figure a:before,.ec-latestnews-list figure a:after {
+	border-color: #ff4038;
+}
+
+.ec-contact-nav li.active a:before {
+	border-bottom-color: #ff4038;
+}

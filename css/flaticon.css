@@ -1,0 +1,148 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+	font-style: normal;
+}
+
+.flaticon-amazon3:before {
+	content: "\e000";
+}
+.flaticon-briefcase15:before {
+	content: "\e001";
+}
+.flaticon-bright4:before {
+	content: "\e002";
+}
+.flaticon-businessmen35:before {
+	content: "\e003";
+}
+.flaticon-calendar146:before {
+	content: "\e004";
+}
+.flaticon-circulararrow36:before {
+	content: "\e005";
+}
+.flaticon-citation:before {
+	content: "\e006";
+}
+.flaticon-clear5:before {
+	content: "\e007";
+}
+.flaticon-connector3:before {
+	content: "\e008";
+}
+.flaticon-direction196:before {
+	content: "\e009";
+}
+.flaticon-envelopes5:before {
+	content: "\e00a";
+}
+.flaticon-facebook55:before {
+	content: "\e00b";
+}
+.flaticon-favorite21:before {
+	content: "\e00c";
+}
+.flaticon-hang13:before {
+	content: "\e00d";
+}
+.flaticon-home78:before {
+	content: "\e00e";
+}
+.flaticon-instagram14:before {
+	content: "\e00f";
+}
+.flaticon-like80:before {
+	content: "\e010";
+}
+.flaticon-logo79:before {
+	content: "\e011";
+}
+.flaticon-logo95:before {
+	content: "\e012";
+}
+.flaticon-logotype221:before {
+	content: "\e013";
+}
+.flaticon-magnifying-glass32:before {
+	content: "\e014";
+}
+.flaticon-manager:before {
+	content: "\e015";
+}
+.flaticon-mastercard5:before {
+	content: "\e016";
+}
+.flaticon-media23:before {
+	content: "\e017";
+}
+.flaticon-multiple25:before {
+	content: "\e018";
+}
+.flaticon-painter11:before {
+	content: "\e019";
+}
+.flaticon-paypal11:before {
+	content: "\e01a";
+}
+.flaticon-phone323:before {
+	content: "\e01b";
+}
+.flaticon-pin65:before {
+	content: "\e01c";
+}
+.flaticon-plus79:before {
+	content: "\e01d";
+}
+.flaticon-right11:before {
+	content: "\e01e";
+}
+.flaticon-savings1:before {
+	content: "\e01f";
+}
+.flaticon-send4:before {
+	content: "\e020";
+}
+.flaticon-shoppingcart17:before {
+	content: "\e021";
+}
+.flaticon-social-network34:before {
+	content: "\e022";
+}
+.flaticon-social28:before {
+	content: "\e023";
+}
+.flaticon-telephone5:before {
+	content: "\e024";
+}
+.flaticon-tick8:before {
+	content: "\e025";
+}
+.flaticon-user91:before {
+	content: "\e026";
+}
+.flaticon-verified9:before {
+	content: "\e027";
+}
+.flaticon-visa5:before {
+	content: "\e028";
+}
+.flaticon-web-feed1:before {
+	content: "\e029";
+}
+.flaticon-world91:before {
+	content: "\e02a";
+}
+.flaticon-world93:before {
+	content: "\e02b";
+}

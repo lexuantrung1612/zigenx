@@ -1,0 +1,17 @@
+/* ThemeColor */
+.ec-color-three,.ec-colorhover-three:hover,.ec-seeall-btn a,.ec-team-featured-list ul li i,.ec-team-classic figcaption span,.footer-three .ec-contact-icon li:hover a  {
+	color: #f490a2;
+}
+
+.ec-bgcolor-three,.ec-bgcolorhover-three:hover,.ec-header-three .navbar-nav > li:hover > a,.ec-header-three .navbar-nav > li.active > a,.ec-fancy-titletwo span,.ec-simple-btn,
+.ec-featured-list i,.widget_contact_from input[type="submit"] {
+	background-color: #f490a2;
+}
+
+.ec-bordercolor-three,.ec-bordercolorhover-three:hover,.ec-testimonial-static .ec-testimonial-wrap {
+	border-color: #f490a2;
+}
+
+.ec-fancy-titletwo span:before,.ec-fancy-titletwo span:after {
+	border-top-color: #f490a2;
+}
